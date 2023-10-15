@@ -3,14 +3,14 @@
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is a **little moxie**!"
-##### Header
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
-####Colombian Symbolism in One Hundred Years of Solitude
+##### Headers
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
+#### Colombian Symbolism in One Hundred Years of Solitude
 ##### pics
 Here's some words about the book _One Hundred Years..._.
 [Search for it.](www.google.com)
@@ -32,6 +32,7 @@ Here's some words about the book _One Hundred Years..._.
 * Flour
 * Cheese
 * Tomatoes
-  1. Cut the cheese,
+  
+1. Cut the cheese,
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
