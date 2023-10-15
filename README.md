@@ -18,7 +18,7 @@ Here's some words about the book _One Hundred Years..._.
 ####The Latest News from the [BBC](www.bbc.com/news:)
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) 
 ![Black cat][BLACK]
-[cat]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[cat]:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 ##### quotes
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 > 
